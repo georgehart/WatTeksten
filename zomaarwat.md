@@ -3,5 +3,8 @@ rood
 orqnje
 geel
 groen
-etc...
-dit zij de kleuren van de regenboog
+Blauw
+Indigo
+Violet
+
+we zij klaar
