@@ -1,4 +1,4 @@
-de regenboorg
+de regenboorg en de regen ko;t er ook bij
 rood
 orqnje
 geel
