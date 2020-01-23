@@ -1,5 +1,5 @@
-de regenboorg en de regen ko;t er ook bij
-rood
+## de regenboorg en de regen komt er ook bij
+> rood
 orqnje
 geel
 groen
